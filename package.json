@@ -1,0 +1,16 @@
+{
+  "name": "postgres-migrator",
+  "version": "0.0.1",
+  "description": "A dev tool to automatically run and keep track of postgres migrations in a project. Only for local development purposes. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "postgres",
+    "migrate",
+    "migrations"
+  ],
+  "author": "Brian Spates",
+  "license": "MIT"
+}
